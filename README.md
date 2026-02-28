@@ -38,6 +38,7 @@ Social icons are provided via `react-icons` and exported from `src/components/ic
 View icon library and codes here:
 https://react-icons.github.io/react-icons/
 bootstrap icons are probably best for social media
+
 Example usage in `src/data/resume.tsx`:
 
 ```tsx
