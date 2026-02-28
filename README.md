@@ -36,7 +36,7 @@ You can remove and add extra links on this page(resume.tsx)
 Social icons are provided via `react-icons` and exported from `src/components/icons.tsx`.
 
 View icon library and codes here:
-https://react-icons.github.io
+https://react-icons.github.io/react-icons/
 
 Example usage in `src/data/resume.tsx`:
 
